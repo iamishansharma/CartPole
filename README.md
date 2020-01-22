@@ -6,4 +6,4 @@ Cartpole - known also as an Inverted Pendulum is a pendulum with a center of gra
 
 ## Model used
 
-Sequential Model Neural Net using Keras
+Sequential Neural Net using Keras
